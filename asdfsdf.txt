@@ -1,0 +1,6 @@
+title:Junz클랜 전용 DIM 추천 무기 테이블
+description:무기추천:NANA, 테이블 제작:붸쉐뭬
+
+//일곱번째 세라프 CQC-12
+//notes:정리
+dimwishlist:item=1821724780&perks=791862061,3300816228,1546637391#notes:정리2

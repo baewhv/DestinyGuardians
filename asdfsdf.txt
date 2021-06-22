@@ -1,4 +1,4 @@
-title:Junz클랜 전용 DIM 추천 무기 테이블
+title:Junz클랜 전용 DIM 추천 무기 테이블[제작날자 : S14-2022-06-22]
 description:무기추천:NANA, 테이블 제작:붸쉐뭬
 
 //일곱번째 세라프 CQC-12

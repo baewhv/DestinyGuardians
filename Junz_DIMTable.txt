@@ -652,4 +652,9 @@ dimwishlist:item=852228780&perks=1840239774,106909392,2284787283,1546637391
 //notes:[NANA]PVP종결 - 이카루스 숙련, 조작 숙련 장착
 dimwishlist:item=852228780&perks=1840239774,1087426260,957782887,1546637391
 
-
+//삼진수
+dimwishlist:item=-3258665412#notes:[JeEui]안쓰이는 융소. 플러그원 하위호환.
+//시간의 정점
+dimwishlist:item=-3055192515#notes:[JeEui]안쓰이는 융소.
+//헛된 맹세
+dimwishlist:item=-607191995#notes:[JeEui]안쓰이는 융소.
